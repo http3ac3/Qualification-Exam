@@ -1,0 +1,10 @@
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\bin\Debug\programExam.exe.config
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\bin\Debug\programExam.exe
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\bin\Debug\programExam.pdb
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.Form1.resources
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.Properties.Resources.resources
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.csproj.GenerateResource.cache
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.exe
+D:\Users\stu-pksp120\Desktop\Exam\src\programExam\programExam\obj\Debug\programExam.pdb
